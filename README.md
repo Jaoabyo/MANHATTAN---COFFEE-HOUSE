@@ -13,4 +13,7 @@ HTML5 e CSS3: Estrutura e estilização do site.
 JavaScript (opcional): Adiciona interatividade para uma experiência de usuário mais dinâmica.
 Google Fonts e Ícones: Melhora a estética visual e profissional do site.
 Objetivo
-Este projeto visa consolidar minhas habilidades no desenvolvimento front-end, permitindo que eu pratique o design responsivo e técnicas de CSS avançadas, como animações e efeitos visuais.
+Este projeto visa consolidar minhas habilidades no desenvolvimento front-end, permitindo que eu pratique o design responsivo e técnicas de CSS avançadas, como animações e efeitos 
+visuais.
+Acesse  e Veja: https://jaoabyo.github.io/MANHATTAN---COFFEE-HOUSE/
+![image](https://github.com/user-attachments/assets/af81ad65-aa64-49cb-b1e8-aa1fcd5a1496)
