@@ -8,11 +8,11 @@ Navegação Fixa: Uma barra de navegação fixa permite que os usuários acessem
 Informações de Contato e Localização: Inclui um mapa integrado e detalhes de contato para facilitar o acesso dos clientes.
 
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
+
 HTML5 e CSS3: Estrutura e estilização do site.
-JavaScript (opcional): Adiciona interatividade para uma experiência de usuário mais dinâmica.
-Google Fonts e Ícones: Melhora a estética visual e profissional do site.
-Objetivo
+
+Objetivo:
 Este projeto visa consolidar minhas habilidades no desenvolvimento front-end, permitindo que eu pratique o design responsivo e técnicas de CSS avançadas, como animações e efeitos 
 visuais.
 Acesse  e Veja: https://jaoabyo.github.io/MANHATTAN---COFFEE-HOUSE/
