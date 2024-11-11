@@ -1,3 +1,19 @@
+@media (max-width: 768px) {
+    .banner h1 {
+        font-size: 50px; /* Reduz o tamanho da fonte em dispositivos móveis */
+        padding-top: 150px;
+    }
+
+    .buttons a {
+        font-size: 14px; /* Ajusta o tamanho do texto da barra de navegação */
+        margin: 20px 10px;
+    }
+}
+
+body {
+    overflow-x: hidden;
+}
+
 
 *{
     margin: 0;
